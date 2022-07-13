@@ -1,0 +1,152 @@
+.card-plan{
+    background-color: rgb(78, 70, 83);
+    width: 220px;
+    border-top: 0.2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0px 10px 10px 4px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    margin: 10px;
+    margin-bottom: 498px;
+}
+
+.image-container{
+    text-align: center;
+}
+
+p{
+    margin: 0;
+}
+
+.body{
+    background: rgb(118,61,153);
+    background: linear-gradient(0deg, rgba(118,61,153,1) 0%, rgba(40,26,74,1) 100%);
+    background-repeat: no-repeat;
+
+}
+
+.plan-title{
+    color: white;
+    text-align: center;
+    margin: 0px;
+    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(221, 156, 52);
+}
+
+.plan-title-standar{
+    color: white;
+    text-align: center;
+    margin: 0px;
+    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(39, 167, 118);
+}
+
+.plan-title-ultimate{
+    color: white;
+    text-align: center;
+    margin: 0px;
+    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(62, 82, 178);
+}
+
+.plan-price{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    padding-bottom: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.plan-price-detail{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.plan-price-detail p {
+    margin: 0px;
+    font-size: 70px;
+    display: inline-block;
+}
+
+.plan-price-detail h6{
+    color: rgb(126, 126, 126);
+    text-align: center;
+    padding-bottom: 25px;
+    margin: 5px;
+}
+
+.plan-month{
+    color: rgb(114, 114, 114);
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.plan-emails{
+    border: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(156, 156, 156);
+    border-top: 1px solid rgb(134, 134, 134);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.plan-space{
+    border: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(156, 156, 156);
+    border-top: 1px solid rgb(134, 134, 134);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.plan-domain{
+    border: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(156, 156, 156);
+    border-top: 1px solid rgb(134, 134, 134);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.plan-brandwidth{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(156, 156, 156);
+    border-top: 1px solid rgb(134, 134, 134);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.buttom-container button{
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    color: rgba(238, 240, 240, 0.9);
+    text-transform: uppercase;
+    padding-top: 30px;
+    font-size: 1rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.2rem;
+}
+
+.buttom-container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 1px solid rgb(134, 134, 134);
+    text-align: center;
+}
